@@ -1,0 +1,18 @@
+
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: peru;
+}
+.formulario {
+  width: 900px;
+}
+#alerta {
+  background-color: wheat;
+}
+.boton {
+  margin-left: 10px;
+}
+h3 {
+  margin: 100px;
+}
